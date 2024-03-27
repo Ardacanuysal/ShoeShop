@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://github.com/Ardacanuysal/ShoeShop/blob/main/src/images/Main.png" 
      /> 
-  <img src="" 
+  <img src="https://github.com/Ardacanuysal/ShoeShop/blob/main/src/images/List.png" 
      /> 
 </div>
 
