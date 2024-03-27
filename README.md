@@ -1,7 +1,11 @@
-# ShoeShop
 <br />
 <div align="center">
-  <h1 align="center">Designs</h1>
+  <h1 align="center">ShoeShapp</h1>
+</div>
+<div align="center">
+<img src="https://github.com/Ardacanuysal/ShoeShop/blob/main/src/images/Main.png" 
+     /> 
+  <img src="" 
+     /> 
 </div>
 
-<img src="https://github.com/Ardacanuysal/ShoeShop/blob/main/src/images/Main.png"  />
